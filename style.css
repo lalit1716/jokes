@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&family=Nunito:wght@500;900&family=Open+Sans:wght@300&family=Roboto+Slab:wght@900&family=Roboto:ital,wght@1,700&family=Shantell+Sans:wght@500&display=swap');
+
+
+p{
+    text-align: center;
+}
+
+body{
+    background-color: darkcyan;
+}
+
+
+#main-div{
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+    max-height: 200px;
+    width: 300px;
+    background-color: cornflowerblue;
+    font-weight: 500;
+    text-align: center;
+    font-family: 'Shantell Sans', cursive;
+    
+}
+
+#btn{
+    font-family: 'Shantell Sans', cursive;
+    cursor: pointer;
+    margin-left: 790px;
+    margin-top: 50px;
+    height: 30px;
+    width: 60px;
+    background-color: rgba(0, 0, 0, 0.452);
+    border-radius: 5px;
+}
